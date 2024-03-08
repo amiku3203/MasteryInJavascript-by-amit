@@ -1,0 +1,9 @@
+// console is a object
+console.log("Hey  i am here");
+
+console.table({ agf: 20, width: 30 });
+
+console.warn("Hey i am here");
+
+console.clear();
+console.error("Hey i am here");
