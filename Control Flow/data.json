@@ -1,0 +1,11 @@
+{
+    "name": "Amit Kumar",
+    "age":23,
+    "email":"kumaramit28538@gmail.com",
+    "hobbies":["Reading", "Running", "Cooking"],
+    "address": {
+         "city":"Harraiya",
+         "idk":true
+         
+    }
+}
