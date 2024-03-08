@@ -1,0 +1,2 @@
+Javascript is a vercsatile and widely used programming language that plays a crucial role in web development.it enable developer to create intreactive and dynamic elements within web pages , enhanching the user experience by adding functinality that responds to user actions .
+javascript is primarily executed in web browser . but its also used in other envionment like server side scripting (Node js).
