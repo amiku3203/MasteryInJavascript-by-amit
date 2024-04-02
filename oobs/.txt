@@ -1,0 +1,1 @@
+javascript is a versatile and dynamic programming language that support multiple paradigms , including procedure, functional, and object-oriebted programmning while javascript is not a purely object-orietned kie java .it provides the tools and feature to implement oop concepr effectively
