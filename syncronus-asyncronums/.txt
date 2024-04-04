@@ -1,0 +1,6 @@
+// Synchronous njavascript refers to thr traditional way of executing javascript code , where each operation is performed in a sequencial and blocking manner. in other wordsm each line of code is executes one after the other and the program will wait for each opreation  to finish before moving on the next one. if an opreation takes a long time to complete. it can potentially slow down the entire application, making it less responsive .
+
+
+
+
+// Asynchronums javascript allows certain opreation to be executed independent from the main program flow, so they don't block the execution of other tasks. this is typically achieved using techniques like callbacks, promises, and async/await , which allow developer to handle Asynchronums opreations more efficiently.
